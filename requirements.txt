@@ -1,0 +1,6 @@
+flask>=3.0
+flask-cors>=4.0
+anthropic>=0.30
+ddgs>=8.0
+qianfan>=0.4.0
+gunicorn>=21.2
